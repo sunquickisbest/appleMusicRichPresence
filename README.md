@@ -8,11 +8,11 @@ To get the source version of Equicord, please see
 https://docs.equicord.org/installing/
 
 To upload the plugins, open your Equicord folder in your terminal and paste these commands.
-`cd src`
-`mkdir userplugins && cd userplugins`
+`cd src`<br>
+`mkdir userplugins && cd userplugins`<br>
 
 [!TIP]
 If you already have the userplugins folder just paste
-`cd userplugins`
-Finally run:
+`cd userplugins`<br>
+Finally run:<br>
 `git clone https://github.com/sunquickisbest/appleMusicRichPresence`
