@@ -7,7 +7,7 @@ To be able to run this plugin, please make sure you have the source version of E
 To get the source version of Equicord, please see 
 https://docs.equicord.org/installing/
 
-To upload the plugins, open your Equicord folder in your terminal and paste these commands.
+To upload the plugins, open your Equicord folder in your terminal and paste these commands.<br>
 `cd src`<br>
 `mkdir userplugins && cd userplugins`<br>
 
