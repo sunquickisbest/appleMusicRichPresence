@@ -1,5 +1,5 @@
 # AppleMusicRichPresence
-This repository is a plugin for Vencord, Equicord and BetterDiscord to display their Apple Music listening activity to Discord. It doesn't use the Apple Music API and runs via osascript meaning it also only works for **MacOS users**.
+This repository is a plugin for Vencord, Equicord and BetterDiscord users to display their Apple Music listening activity to Discord. It doesn't use the Apple Music API and runs via osascript meaning it also only works for **MacOS users**.
 
 # Note this was only tested on Equicord
 To be able to run this plugin, please make sure you have the source version of Equicord and not a version from the prebuilt installers.
