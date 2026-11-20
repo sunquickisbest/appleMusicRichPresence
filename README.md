@@ -14,5 +14,6 @@ To upload the plugins, open your Equicord folder in your terminal and paste thes
 >[!TIP]
 >If you already have the userplugins folder just paste
 `cd userplugins`<br>
+
 Finally run:<br>
 `git clone https://github.com/sunquickisbest/appleMusicRichPresence`
